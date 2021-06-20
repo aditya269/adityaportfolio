@@ -3,7 +3,7 @@
 ## A Resposive and attractive portfolio for Developers 🔥
 A clean, beautiful and responsive portfolio templete with using only HTML and css.
 Later on add some javascript for animation and designing.
-visit the website [here.]
+visit the website [here.] https://aditya269.github.io/adityaportfolio/
 
 
 ![ezgif com-optimize]
